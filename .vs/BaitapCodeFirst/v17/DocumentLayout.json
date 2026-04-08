@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\HocC#\\BaitapCodeFirst\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26A42996-6194-4F40-9760-445F97E07AE7}|BaitapCodeFirst\\BaitapCodeFirst.csproj|d:\\hocc#\\baitapcodefirst\\baitapcodefirst\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A42996-6194-4F40-9760-445F97E07AE7}|BaitapCodeFirst\\BaitapCodeFirst.csproj|solutionrelative:baitapcodefirst\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26A42996-6194-4F40-9760-445F97E07AE7}|BaitapCodeFirst\\BaitapCodeFirst.csproj|d:\\hocc#\\baitapcodefirst\\baitapcodefirst\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A42996-6194-4F40-9760-445F97E07AE7}|BaitapCodeFirst\\BaitapCodeFirst.csproj|solutionrelative:baitapcodefirst\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\HocC#\\BaitapCodeFirst\\BaitapCodeFirst\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "BaitapCodeFirst\\Models\\Course.cs",
+              "ToolTip": "D:\\HocC#\\BaitapCodeFirst\\BaitapCodeFirst\\Models\\Course.cs",
+              "RelativeToolTip": "BaitapCodeFirst\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T15:42:34.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\HocC#\\BaitapCodeFirst\\BaitapCodeFirst\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "BaitapCodeFirst\\Models\\Student.cs",
+              "ToolTip": "D:\\HocC#\\BaitapCodeFirst\\BaitapCodeFirst\\Models\\Student.cs",
+              "RelativeToolTip": "BaitapCodeFirst\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T15:41:41.95Z",
+              "EditorCaption": ""
             }
           ]
         }
