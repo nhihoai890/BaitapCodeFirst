@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "014MfPk1MZw=",
+  "dgSpecHash": "GNwB0fmIuJg=",
   "success": true,
   "projectFilePath": "D:\\HocC#\\BaitapCodeFirst\\BaitapCodeFirst\\BaitapCodeFirst.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,8 @@
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\mysqlconnector\\2.3.5\\mysqlconnector.2.3.5.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\8.0.0\\pomelo.entityframeworkcore.mysql.8.0.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\system.composition\\6.0.0\\system.composition.6.0.0.nupkg.sha512",

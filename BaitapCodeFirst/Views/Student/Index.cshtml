@@ -1,0 +1,29 @@
+﻿@model IEnumerable<BaitapCodeFirst.Models.Student>
+
+<h2>Danh sách sinh viên</h2>
+
+<a href="/Student/Create">Thêm mới</a>
+
+<table border="1">
+    <tr>
+        <th>Id</th>
+        <th>Tên</th>
+        <th>Tuổi</th>
+        <th>Course</th>
+        <th>Action</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Age</td>
+            <td>@item.Course?.CourseName</td>
+            <td>
+                <a href="/Student/Edit/@item.Id">Sửa</a> |
+                <a href="/Student/Delete/@item.Id">Xóa</a>
+            </td>
+        </tr>
+    }
+</table>

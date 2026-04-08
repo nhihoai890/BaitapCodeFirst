@@ -1,0 +1,31 @@
+﻿@model BaitapCodeFirst.Models.Student
+
+<h2>Sửa sinh viên</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div>
+        <label>Tên:</label>
+        <input asp-for="Name" />
+    </div>
+
+    <div>
+        <label>Tuổi:</label>
+        <input asp-for="Age" />
+    </div>
+
+    <div>
+        <label>Course:</label>
+        <select asp-for="CourseId">
+            @foreach (var c in ViewBag.Courses)
+            {
+                <option value="@c.Id" selected="@(c.Id == Model.CourseId)">
+                    @c.CourseName
+                </option>
+            }
+        </select>
+    </div>
+
+    <button type="submit">Cập nhật</button>
+</form>
